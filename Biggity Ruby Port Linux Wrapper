@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+xfce4-terminal -x rlwrap /zfspool/biggity.rb
